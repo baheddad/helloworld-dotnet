@@ -26,8 +26,8 @@ app.MapGet("/", () => Results.Content("""
         </style>
     </head>
     <body>
-        <h1>Hello World 👋</h1>
-        <p>My first .NET app on Azure Web App</p>
+        <h1>Hello Mohammed Baheddad World 👋</h1>
+        <p>My first .NET app on Azure Web App using Github action </p>
     </body>
     </html>
     """, "text/html"));
