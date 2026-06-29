@@ -11,7 +11,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_WEBAPP_NAME: Helloworld-dotnet        # <-- change this
+  AZURE_WEBAPP_NAME: Helloworld-dotnet        # <-- change this Baheddad now 
   DOTNET_VERSION: '9.0.x'
 
 jobs:
