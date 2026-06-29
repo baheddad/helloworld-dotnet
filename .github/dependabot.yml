@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"   # watch the actions in your workflows
+    directory: "/"                         # workflows live in .github/workflows
+    schedule:
+      interval: "weekly"                   # check once a week
